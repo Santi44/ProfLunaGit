@@ -1,0 +1,508 @@
+C:\Users\Tiago>cd documents
+
+C:\Users\Tiago\Documents>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0096-F637
+
+ Directorio de C:\Users\Tiago\Documents
+
+09/04/2022  18:43    <DIR>          .
+09/04/2022  18:43    <DIR>          ..
+17/06/2021  08:50         1.617.246 #15 PARCIAL 2-20210617T115020Z-001.zip
+10/09/2021  14:01            65.937 -20307064120Damonte RuizSantiago Datos Personales del empleado [2021-09-10T17_00_16.909Z].pdf
+07/07/2021  21:17           199.953 07-07-2021-Comisión Santiago Damonte - SegundoParcial - BDXA Miércoles - ALUMNOS.DOCX
+14/11/2021  19:07             7.463 10_lee_RFID_compara_y_LED.zip
+13/12/2021  17:45           142.996 11_2021_UF 12 - PISO 3 - DPTO 12_BULNES 1246.pdf
+06/04/2022  19:39           313.275 1er.PARCIAL_MODEL-Virtual.ViN1.pdf
+11/11/2021  22:08            18.313 30706412-Santiago Martin Damonte Ruiz.docx
+02/01/2022  21:11           119.697 30706412_03-01-2022.pdf
+14/11/2021  18:08    <DIR>          34 CrMod_RFID_RC522
+14/11/2021  18:08         3.855.487 34 CrMod_RFID_RC522.zip
+14/11/2021  19:09    <DIR>          7_EJDumpinfo_lee_tarjeta_RFID_comple
+14/11/2021  19:08             6.317 7_EJDumpinfo_lee_tarjeta_RFID_comple.zip
+14/11/2021  19:13    <DIR>          8_saca_codigo_RFID
+14/11/2021  19:06             5.165 8_saca_codigo_RFID.zip
+14/11/2021  19:07             6.488 9_Lee_codigo_RFID_compara.zip
+15/09/2021  17:36            15.244 a.docx
+14/06/2021  15:08           590.538 Actors.rtf
+07/01/2022  18:42    <DIR>          adb-setup-1.4.3
+07/01/2022  18:41         9.324.345 adb-setup-1.4.3.zip
+08/01/2022  14:29         9.667.561 adbdriver.zip
+20/10/2021  20:56           107.767 Administracion Bancaria.docx
+30/09/2021  18:25            15.275 Analizar desde el punto de vista comercial la propuesta que le hace Yunus al gerente del banco.docx
+08/01/2022  18:33       959.108.544 android-studio-2020.3.1.26-windows.exe
+08/01/2022  13:54       925.459.484 android-studio-2021.1.1.19-windows.zip
+14/11/2021  19:15    <DIR>          Arduino
+13/11/2021  19:09             4.504 Arduprofe Control Voice 3.txt
+27/07/2021  17:07             5.778 Autenticacion.yaml
+14/06/2021  12:55           587.549 Backoffice Cliente- Diagrama de Secuencia.rtf
+30/01/2022  01:29    <DIR>          Blocs de notas de OneNote
+20/08/2021  23:38            13.454 Buenos Aires.docx
+20/08/2021  23:39            70.115 Buenos Aires.pdf
+30/01/2022  01:28            13.789 Bulnes 1246.xlsx
+18/06/2021  13:54            82.091 Buscador de Jurisprudencia.pdf
+22/10/2021  20:17           502.953 CamScanner 10-22-2021 20.08.docx
+05/01/2022  13:47         1.341.272 ChromeSetup.exe
+23/12/2021  00:09             8.618 comprobante11000494023211223.pdf
+01/12/2021  11:48             8.627 comprobante11244489019211201.pdf
+13/12/2021  12:16             8.630 comprobante11264037025211213.pdf
+15/08/2021  18:56            23.708 Condicionado.rap.backup0
+15/08/2021  19:00            23.874 Condicionado.rap.backup1
+15/08/2021  18:48            18.236 Condicionado.rap.backup2
+15/08/2021  18:53            18.887 Condicionado.rap.backup3
+15/08/2021  19:03            24.002 Condicionales.rap
+13/11/2021  18:55           264.847 Conexion Rfid.png
+13/11/2021  18:55            35.518 Conexion.fzz
+10/09/2021  12:42            69.325 constanciadecuil-20307064120.pdf
+08/08/2021  16:19           195.137 Conversation-Starters.pdf
+19/10/2021  23:54           347.475 CurriculumFlorenciaVorro.docx
+15/08/2021  19:18             5.307 d.rap
+15/08/2021  19:26             6.899 d.rap.backup0
+15/08/2021  19:40             5.568 d.rap.backup1
+15/08/2021  19:45             6.989 d.rap.backup2
+15/08/2021  19:48             8.593 d.rap.backup3
+26/11/2021  00:09           110.648 Damonte Santiago - Parcial Teleinfo 2.pkt
+17/07/2021  19:48         2.010.313 DDHH.pptx
+24/10/2021  12:05             2.136 DESKTOP-SO34ABN_Tiago_20211024120507.dat
+14/12/2021  09:52            35.050 Detalle.pdf
+03/07/2021  12:57            25.088 Documento recuperado.doc
+10/09/2021  13:57            78.627 Dorso.jpeg
+08/01/2022  16:07    <DIR>          Drivers MTK
+08/01/2022  16:06           309.647 Drivers MTK.zip
+08/01/2022  16:10        18.426.474 Drivers4785633.rar
+05/01/2022  00:57         9.279.450 Driver_Auto_Installer_EXE_v5.1632.00.zip
+09/05/2021  12:14               875 Ejercicio1.vsm
+09/05/2021  14:37           111.767 Ejercicio9.pdf
+09/05/2021  13:20             1.092 Ejercicio9.vsm
+10/05/2021  22:48             2.263 Ejercicio9B.vsm
+09/05/2021  19:26               876 Ejercicios y problemas.vsm
+09/05/2021  14:55           102.539 Ejercitacion punto B.pdf
+27/08/2021  20:18    <DIR>          Electromagnetismo
+27/08/2021  20:16         6.236.134 Electromagnetismo.rar
+13/12/2021  18:05        13.612.681 Elegir el proyecto.pdf
+26/11/2021  22:13           182.956 EXAMEN PARCIAL 26-11 Santiago Damonte.pkt
+24/10/2021  11:37           796.018 FingerPrint Reader User Manual.pdf
+05/01/2022  01:52         3.975.056 FlashTool_v5.1516.00.7z
+10/09/2021  13:57            73.401 Frente.jpeg
+09/04/2022  18:20        50.244.992 Git-2.35.1.2-64-bit.exe
+29/07/2021  16:11            68.789 Gmail - FIRMA DEL LIBRO DE ACTAS.pdf
+30/07/2021  10:15            62.093 Gmail - Reparación Unidad 3-12 Bulnes 1246.pdf
+06/04/2022  23:08    <DIR>          Grabaciones de sonido
+07/07/2021  11:58         1.189.291 Guillermo Frías - __PARCIAL II BDA - 2020_ONLINE (Reparado).docx
+03/07/2021  16:37           940.703 Guía para la lectura de fallos.docx
+10/09/2021  14:02           587.859 Humanage.html
+10/09/2021  14:02    <DIR>          Humanage_files
+20/11/2021  14:22         3.644.938 ICSE 2.docx
+14/02/2021  16:11    <DIR>          IISExpress
+23/06/2021  10:56         1.759.232 Inbank.EAP
+10/11/2021  21:52            22.416 Indicadores v2.xlsx
+01/12/2021  21:19               305 Install Group Policy Editor (gpedit.msc) .txt
+09/05/2021  19:28            13.427 justicia como ser del derecho.xlsx
+17/10/2021  22:23            12.614 Libro1.xlsx
+13/12/2021  18:05        23.295.778 Los proyectos su naturaleja.pdf
+11/10/2021  15:22            16.903 MEDICION DE COBRANZA  HECTOR ABREGU.xlsx
+15/11/2021  21:18            70.229 MESAS DE EXAMEN DICIEMBRE 2021 - TECNICATURA SUPERIOR EN ANÁLISIS DE SISTEMAS   .pdf27/12/2021  22:00           180.978 Mi AliExpress_ Gestionar pedidos.pdf
+15/12/2021  09:29            61.267 mi UAI _ Universidad Abierta Interamericana 2021.pdf
+29/11/2021  12:47            57.754 mi UAI _ Universidad Abierta Interamericana.pdf
+08/01/2022  18:13           402.517 MT67xx USB VCOM.zip
+07/01/2022  18:56         9.279.707 MTK  Auto Driver Installer v5.1632.00.zip
+08/01/2022  15:05         3.419.504 MTK Drivers By Fran.zip
+05/01/2022  15:42        21.047.695 MTK-Driver.zip
+08/01/2022  14:04         8.680.972 MTK_Android_USB_Driver.zip
+05/01/2022  15:13    <DIR>          MTK_FlashTool_v5.1220
+05/01/2022  15:11         6.537.087 MTK_FlashTool_v5.1220.zip
+14/02/2021  16:11    <DIR>          My Web Sites
+04/08/2021  19:22    <DIR>          Nueva carpeta
+31/08/2021  20:41        13.612.681 Nuevo documento(1).pdf
+13/12/2021  20:09        15.108.057 Organizar el Proyecto.pdf
+05/08/2021  14:57            31.639 pago American Express 379975710161007.pdf
+27/08/2021  20:16         3.739.138 parcial-2.pdf
+20/12/2021  20:14           167.474 Parcial20.jpeg
+31/03/2022  00:16    <DIR>          Phoenix LiteOS 10 LTSC Plus (19044.1566)
+30/03/2022  22:48     2.779.735.590 Phoenix LiteOS 10 LTSC Plus (19044.1566).7z
+10/04/2021  21:50    <DIR>          Plantillas personalizadas de Office
+08/01/2022  13:45    <DIR>          platform-tools_r31.0.3-windows
+08/01/2022  13:44        11.912.013 platform-tools_r31.0.3-windows.zip
+09/04/2022  18:15    <DIR>          PortableGit
+09/04/2022  18:10        45.835.848 PortableGit-2.35.1.2-64-bit.7z.exe
+27/08/2021  20:16           161.007 PRIMER PARCIAL (1).pdf
+22/10/2021  20:15            41.959 PRIMER PARCIAL-1.docx
+22/10/2021  20:22           434.841 PRIMER PARCIAL-Santiago Damonte.pdf
+09/04/2022  18:38    <DIR>          ProfLuna
+13/11/2021  19:02             3.740 PROGRAMA_PARA_LEER_CLAVES_RFID.ino
+27/07/2021  17:32            13.082 Promociones PEI.yaml
+08/06/2021  21:07           573.196 Práctica_Concurrencia.docx
+08/06/2021  23:58           918.333 Práctica_Concurrencia_Santiago_Damonte.docx
+05/01/2022  13:16           134.818 Reclamo.pdf
+14/06/2021  15:07             7.262 Report.rtf
+09/05/2021  19:29            31.452 Resumen del caso Marbury contra Madison.docx
+13/11/2021  18:47             4.366 rfid.io.txt
+01/02/2022  23:32    <DIR>          Santiago Martin en Trabajo
+13/11/2021  19:08             1.695 Sensor de temperatura a distancia.txt
+04/04/2021  22:43           317.996 Serial.pdf
+09/06/2021  18:52         1.728.280 seriec_400_esp.pdf
+02/08/2021  23:51            14.733 Sistemas de Informacion.xlsx
+23/08/2021  22:59    <DIR>          sketch
+14/02/2021  02:22    <DIR>          SQL Server Management Studio
+02/08/2021  20:30           106.956 Statement_Aug 2021.pdf
+06/09/2021  13:18           107.074 Statement_Sep 2021.pdf
+11/08/2021  21:51             7.539 Suma.rap
+04/10/2021  22:08            19.361 TEMA 2-Santiago Martin Damonte Ruiz.docx
+29/11/2021  13:13               178 Tipos de Integraciones Prisma Roadmap.txt
+29/09/2021  19:36            14.976 Tp RIesgos.docx
+09/10/2021  19:15            14.947 tp ultimo.docx
+03/11/2021  12:09           192.276 Tu oferta de Wenance.pdf
+01/12/2021  13:36           761.429 turno.pdf
+23/12/2021  12:53            63.712 turnosantiago _174_Botanico
+23/12/2021  12:54            63.712 turnosantiago _174_Botanico (1)
+07/04/2022  03:32    <DIR>          UAI
+31/08/2021  20:40            15.152 uai-parcial-informe.docx
+07/01/2022  18:37           627.179 Universal_ADB-Helper_EOL.zip
+05/01/2022  01:10           108.171 usbdeview-x64.zip
+08/01/2022  01:44           100.569 usbdeview.zip
+28/08/2012  10:33            25.600 usbser.sys
+08/01/2022  13:59         8.682.039 usb_driver_r13-windows.zip
+22/03/2022  23:16            10.223 VIsa 2021.xlsx
+14/02/2021  22:56    <DIR>          Visual Studio 2017
+14/02/2021  22:50    <DIR>          Visual Studio 2019
+19/09/2021  01:21            12.608 Vivir de la política.docx
+08/01/2022  15:20    <DIR>          Windows 10 MTK VCOM USB Preloader Drivers
+08/01/2022  15:19            15.117 Windows 10 MTK VCOM USB Preloader Drivers.rar
+23/09/2015  05:11             1.384 Windows 10 x64 MTK USB Drivers.inf
+23/09/2015  05:11             1.371 Windows 10 x86 MTK USB Drivers.inf
+08/01/2022  18:09    <DIR>          Windows_10_MTK_VCOM_USB_Preloader_Drivers
+08/01/2022  18:09            14.880 Windows_10_MTK_VCOM_USB_Preloader_Drivers.rar
+09/09/2021  17:53           798.720 YPF - latinSyS - Safeguard migration from TPAM v3.1 (1).mpp
+09/09/2021  17:53         3.053.309 YPF situacion actual 20210831.pptx
+09/04/2021  20:55    <DIR>          Zoom
+09/01/2022  15:22    <DIR>          [Hovatek] Mediatek Smartwatch Drivers
+05/01/2022  00:59           427.778 [Hovatek] Mediatek Smartwatch Drivers.zip
+16/05/2021  20:25           332.288 _CLASE_03_Vistas_Stored Procedure_TriggersSSH Santiago Damonte -Profe.doc
+08/06/2021  23:54        35.014.020 ~WRD0000.tmp
+08/06/2021  23:56        35.014.073 ~WRD0004.tmp
+08/06/2021  23:42        35.014.099 ~WRD1165.tmp
+08/06/2021  23:45        35.014.120 ~WRD1849.tmp
+08/06/2021  23:44        35.014.108 ~WRD4004.tmp
+             147 archivos  5.166.497.149 bytes
+              31 dirs  202.378.674.176 bytes libres
+
+C:\Users\Tiago\Documents>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0096-F637
+
+ Directorio de C:\Users\Tiago\Documents
+
+09/04/2022  18:43    <DIR>          .
+09/04/2022  18:43    <DIR>          ..
+17/06/2021  08:50         1.617.246 #15 PARCIAL 2-20210617T115020Z-001.zip
+10/09/2021  14:01            65.937 -20307064120Damonte RuizSantiago Datos Personales del empleado [2021-09-10T17_00_16.909Z].pdf
+07/07/2021  21:17           199.953 07-07-2021-Comisión Santiago Damonte - SegundoParcial - BDXA Miércoles - ALUMNOS.DOCX
+14/11/2021  19:07             7.463 10_lee_RFID_compara_y_LED.zip
+13/12/2021  17:45           142.996 11_2021_UF 12 - PISO 3 - DPTO 12_BULNES 1246.pdf
+06/04/2022  19:39           313.275 1er.PARCIAL_MODEL-Virtual.ViN1.pdf
+11/11/2021  22:08            18.313 30706412-Santiago Martin Damonte Ruiz.docx
+02/01/2022  21:11           119.697 30706412_03-01-2022.pdf
+14/11/2021  18:08    <DIR>          34 CrMod_RFID_RC522
+14/11/2021  18:08         3.855.487 34 CrMod_RFID_RC522.zip
+14/11/2021  19:09    <DIR>          7_EJDumpinfo_lee_tarjeta_RFID_comple
+14/11/2021  19:08             6.317 7_EJDumpinfo_lee_tarjeta_RFID_comple.zip
+14/11/2021  19:13    <DIR>          8_saca_codigo_RFID
+14/11/2021  19:06             5.165 8_saca_codigo_RFID.zip
+14/11/2021  19:07             6.488 9_Lee_codigo_RFID_compara.zip
+15/09/2021  17:36            15.244 a.docx
+14/06/2021  15:08           590.538 Actors.rtf
+07/01/2022  18:42    <DIR>          adb-setup-1.4.3
+07/01/2022  18:41         9.324.345 adb-setup-1.4.3.zip
+08/01/2022  14:29         9.667.561 adbdriver.zip
+20/10/2021  20:56           107.767 Administracion Bancaria.docx
+30/09/2021  18:25            15.275 Analizar desde el punto de vista comercial la propuesta que le hace Yunus al gerente del banco.docx
+08/01/2022  18:33       959.108.544 android-studio-2020.3.1.26-windows.exe
+08/01/2022  13:54       925.459.484 android-studio-2021.1.1.19-windows.zip
+14/11/2021  19:15    <DIR>          Arduino
+13/11/2021  19:09             4.504 Arduprofe Control Voice 3.txt
+27/07/2021  17:07             5.778 Autenticacion.yaml
+14/06/2021  12:55           587.549 Backoffice Cliente- Diagrama de Secuencia.rtf
+30/01/2022  01:29    <DIR>          Blocs de notas de OneNote
+20/08/2021  23:38            13.454 Buenos Aires.docx
+20/08/2021  23:39            70.115 Buenos Aires.pdf
+30/01/2022  01:28            13.789 Bulnes 1246.xlsx
+18/06/2021  13:54            82.091 Buscador de Jurisprudencia.pdf
+22/10/2021  20:17           502.953 CamScanner 10-22-2021 20.08.docx
+05/01/2022  13:47         1.341.272 ChromeSetup.exe
+23/12/2021  00:09             8.618 comprobante11000494023211223.pdf
+01/12/2021  11:48             8.627 comprobante11244489019211201.pdf
+13/12/2021  12:16             8.630 comprobante11264037025211213.pdf
+15/08/2021  18:56            23.708 Condicionado.rap.backup0
+15/08/2021  19:00            23.874 Condicionado.rap.backup1
+15/08/2021  18:48            18.236 Condicionado.rap.backup2
+15/08/2021  18:53            18.887 Condicionado.rap.backup3
+15/08/2021  19:03            24.002 Condicionales.rap
+13/11/2021  18:55           264.847 Conexion Rfid.png
+13/11/2021  18:55            35.518 Conexion.fzz
+10/09/2021  12:42            69.325 constanciadecuil-20307064120.pdf
+08/08/2021  16:19           195.137 Conversation-Starters.pdf
+19/10/2021  23:54           347.475 CurriculumFlorenciaVorro.docx
+15/08/2021  19:18             5.307 d.rap
+15/08/2021  19:26             6.899 d.rap.backup0
+15/08/2021  19:40             5.568 d.rap.backup1
+15/08/2021  19:45             6.989 d.rap.backup2
+15/08/2021  19:48             8.593 d.rap.backup3
+26/11/2021  00:09           110.648 Damonte Santiago - Parcial Teleinfo 2.pkt
+17/07/2021  19:48         2.010.313 DDHH.pptx
+24/10/2021  12:05             2.136 DESKTOP-SO34ABN_Tiago_20211024120507.dat
+14/12/2021  09:52            35.050 Detalle.pdf
+03/07/2021  12:57            25.088 Documento recuperado.doc
+10/09/2021  13:57            78.627 Dorso.jpeg
+08/01/2022  16:07    <DIR>          Drivers MTK
+08/01/2022  16:06           309.647 Drivers MTK.zip
+08/01/2022  16:10        18.426.474 Drivers4785633.rar
+05/01/2022  00:57         9.279.450 Driver_Auto_Installer_EXE_v5.1632.00.zip
+09/05/2021  12:14               875 Ejercicio1.vsm
+09/05/2021  14:37           111.767 Ejercicio9.pdf
+09/05/2021  13:20             1.092 Ejercicio9.vsm
+10/05/2021  22:48             2.263 Ejercicio9B.vsm
+09/05/2021  19:26               876 Ejercicios y problemas.vsm
+09/05/2021  14:55           102.539 Ejercitacion punto B.pdf
+27/08/2021  20:18    <DIR>          Electromagnetismo
+27/08/2021  20:16         6.236.134 Electromagnetismo.rar
+13/12/2021  18:05        13.612.681 Elegir el proyecto.pdf
+26/11/2021  22:13           182.956 EXAMEN PARCIAL 26-11 Santiago Damonte.pkt
+24/10/2021  11:37           796.018 FingerPrint Reader User Manual.pdf
+05/01/2022  01:52         3.975.056 FlashTool_v5.1516.00.7z
+10/09/2021  13:57            73.401 Frente.jpeg
+09/04/2022  18:20        50.244.992 Git-2.35.1.2-64-bit.exe
+29/07/2021  16:11            68.789 Gmail - FIRMA DEL LIBRO DE ACTAS.pdf
+30/07/2021  10:15            62.093 Gmail - Reparación Unidad 3-12 Bulnes 1246.pdf
+06/04/2022  23:08    <DIR>          Grabaciones de sonido
+07/07/2021  11:58         1.189.291 Guillermo Frías - __PARCIAL II BDA - 2020_ONLINE (Reparado).docx
+03/07/2021  16:37           940.703 Guía para la lectura de fallos.docx
+10/09/2021  14:02           587.859 Humanage.html
+10/09/2021  14:02    <DIR>          Humanage_files
+20/11/2021  14:22         3.644.938 ICSE 2.docx
+14/02/2021  16:11    <DIR>          IISExpress
+23/06/2021  10:56         1.759.232 Inbank.EAP
+10/11/2021  21:52            22.416 Indicadores v2.xlsx
+01/12/2021  21:19               305 Install Group Policy Editor (gpedit.msc) .txt
+09/05/2021  19:28            13.427 justicia como ser del derecho.xlsx
+17/10/2021  22:23            12.614 Libro1.xlsx
+13/12/2021  18:05        23.295.778 Los proyectos su naturaleja.pdf
+11/10/2021  15:22            16.903 MEDICION DE COBRANZA  HECTOR ABREGU.xlsx
+15/11/2021  21:18            70.229 MESAS DE EXAMEN DICIEMBRE 2021 - TECNICATURA SUPERIOR EN ANÁLISIS DE SISTEMAS   .pdf
+27/12/2021  22:00           180.978 Mi AliExpress_ Gestionar pedidos.pdf
+15/12/2021  09:29            61.267 mi UAI _ Universidad Abierta Interamericana 2021.pdf
+29/11/2021  12:47            57.754 mi UAI _ Universidad Abierta Interamericana.pdf
+08/01/2022  18:13           402.517 MT67xx USB VCOM.zip
+07/01/2022  18:56         9.279.707 MTK  Auto Driver Installer v5.1632.00.zip
+08/01/2022  15:05         3.419.504 MTK Drivers By Fran.zip
+05/01/2022  15:42        21.047.695 MTK-Driver.zip
+08/01/2022  14:04         8.680.972 MTK_Android_USB_Driver.zip
+05/01/2022  15:13    <DIR>          MTK_FlashTool_v5.1220
+05/01/2022  15:11         6.537.087 MTK_FlashTool_v5.1220.zip
+14/02/2021  16:11    <DIR>          My Web Sites
+04/08/2021  19:22    <DIR>          Nueva carpeta
+31/08/2021  20:41        13.612.681 Nuevo documento(1).pdf
+13/12/2021  20:09        15.108.057 Organizar el Proyecto.pdf
+05/08/2021  14:57            31.639 pago American Express 379975710161007.pdf
+27/08/2021  20:16         3.739.138 parcial-2.pdf
+20/12/2021  20:14           167.474 Parcial20.jpeg
+31/03/2022  00:16    <DIR>          Phoenix LiteOS 10 LTSC Plus (19044.1566)
+30/03/2022  22:48     2.779.735.590 Phoenix LiteOS 10 LTSC Plus (19044.1566).7z
+10/04/2021  21:50    <DIR>          Plantillas personalizadas de Office
+08/01/2022  13:45    <DIR>          platform-tools_r31.0.3-windows
+08/01/2022  13:44        11.912.013 platform-tools_r31.0.3-windows.zip
+09/04/2022  18:15    <DIR>          PortableGit
+09/04/2022  18:10        45.835.848 PortableGit-2.35.1.2-64-bit.7z.exe
+27/08/2021  20:16           161.007 PRIMER PARCIAL (1).pdf
+22/10/2021  20:15            41.959 PRIMER PARCIAL-1.docx
+22/10/2021  20:22           434.841 PRIMER PARCIAL-Santiago Damonte.pdf
+09/04/2022  18:38    <DIR>          ProfLuna
+13/11/2021  19:02             3.740 PROGRAMA_PARA_LEER_CLAVES_RFID.ino
+27/07/2021  17:32            13.082 Promociones PEI.yaml
+08/06/2021  21:07           573.196 Práctica_Concurrencia.docx
+08/06/2021  23:58           918.333 Práctica_Concurrencia_Santiago_Damonte.docx
+05/01/2022  13:16           134.818 Reclamo.pdf
+14/06/2021  15:07             7.262 Report.rtf
+09/05/2021  19:29            31.452 Resumen del caso Marbury contra Madison.docx
+13/11/2021  18:47             4.366 rfid.io.txt
+01/02/2022  23:32    <DIR>          Santiago Martin en Trabajo
+13/11/2021  19:08             1.695 Sensor de temperatura a distancia.txt
+04/04/2021  22:43           317.996 Serial.pdf
+09/06/2021  18:52         1.728.280 seriec_400_esp.pdf
+02/08/2021  23:51            14.733 Sistemas de Informacion.xlsx
+23/08/2021  22:59    <DIR>          sketch
+14/02/2021  02:22    <DIR>          SQL Server Management Studio
+02/08/2021  20:30           106.956 Statement_Aug 2021.pdf
+06/09/2021  13:18           107.074 Statement_Sep 2021.pdf
+11/08/2021  21:51             7.539 Suma.rap
+04/10/2021  22:08            19.361 TEMA 2-Santiago Martin Damonte Ruiz.docx
+29/11/2021  13:13               178 Tipos de Integraciones Prisma Roadmap.txt
+29/09/2021  19:36            14.976 Tp RIesgos.docx
+09/10/2021  19:15            14.947 tp ultimo.docx
+03/11/2021  12:09           192.276 Tu oferta de Wenance.pdf
+01/12/2021  13:36           761.429 turno.pdf
+23/12/2021  12:53            63.712 turnosantiago _174_Botanico
+23/12/2021  12:54            63.712 turnosantiago _174_Botanico (1)
+07/04/2022  03:32    <DIR>          UAI
+31/08/2021  20:40            15.152 uai-parcial-informe.docx
+07/01/2022  18:37           627.179 Universal_ADB-Helper_EOL.zip
+05/01/2022  01:10           108.171 usbdeview-x64.zip
+08/01/2022  01:44           100.569 usbdeview.zip
+28/08/2012  10:33            25.600 usbser.sys
+08/01/2022  13:59         8.682.039 usb_driver_r13-windows.zip
+22/03/2022  23:16            10.223 VIsa 2021.xlsx
+14/02/2021  22:56    <DIR>          Visual Studio 2017
+14/02/2021  22:50    <DIR>          Visual Studio 2019
+19/09/2021  01:21            12.608 Vivir de la política.docx
+08/01/2022  15:20    <DIR>          Windows 10 MTK VCOM USB Preloader Drivers
+08/01/2022  15:19            15.117 Windows 10 MTK VCOM USB Preloader Drivers.rar
+23/09/2015  05:11             1.384 Windows 10 x64 MTK USB Drivers.inf
+23/09/2015  05:11             1.371 Windows 10 x86 MTK USB Drivers.inf
+08/01/2022  18:09    <DIR>          Windows_10_MTK_VCOM_USB_Preloader_Drivers
+08/01/2022  18:09            14.880 Windows_10_MTK_VCOM_USB_Preloader_Drivers.rar
+09/09/2021  17:53           798.720 YPF - latinSyS - Safeguard migration from TPAM v3.1 (1).mpp
+09/09/2021  17:53         3.053.309 YPF situacion actual 20210831.pptx
+09/04/2021  20:55    <DIR>          Zoom
+09/01/2022  15:22    <DIR>          [Hovatek] Mediatek Smartwatch Drivers
+05/01/2022  00:59           427.778 [Hovatek] Mediatek Smartwatch Drivers.zip
+16/05/2021  20:25           332.288 _CLASE_03_Vistas_Stored Procedure_TriggersSSH Santiago Damonte -Profe.doc
+08/06/2021  23:54        35.014.020 ~WRD0000.tmp
+08/06/2021  23:56        35.014.073 ~WRD0004.tmp
+08/06/2021  23:42        35.014.099 ~WRD1165.tmp
+08/06/2021  23:45        35.014.120 ~WRD1849.tmp
+08/06/2021  23:44        35.014.108 ~WRD4004.tmp
+             147 archivos  5.166.497.149 bytes
+              31 dirs  202.377.297.920 bytes libres
+
+C:\Users\Tiago\Documents>git init
+Initialized empty Git repository in C:/Users/Tiago/Documents/.git/
+
+
+C:\Users\Tiago\Documents>cd ProfLuna
+
+
+C:\Users\Tiago\Documents\ProfLuna>git init
+Initialized empty Git repository in C:/Users/Tiago/Documents/ProfLuna/.git/
+
+C:\Users\Tiago\Documents\ProfLuna>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0096-F637
+
+ Directorio de C:\Users\Tiago\Documents\ProfLuna
+
+09/04/2022  19:09    <DIR>          .
+09/04/2022  19:09    <DIR>          ..
+09/04/2022  19:06                23 README.md
+               1 archivos             23 bytes
+               2 dirs  202.366.971.904 bytes libres
+
+C:\Users\Tiago\Documents\ProfLuna>git add README.md
+
+C:\Users\Tiago\Documents\ProfLuna>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+
+C:\Users\Tiago\Documents\ProfLuna>git commit -m "Initial Commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Tiago@DESKTOP-SO34ABN.(none)')
+
+C:\Users\Tiago\Documents\ProfLuna>git config --global user.name "Santi Damont"
+
+C:\Users\Tiago\Documents\ProfLuna>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+
+C:\Users\Tiago\Documents\ProfLuna>git commit -m "Initial Commit"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Tiago@DESKTOP-SO34ABN.(none)')
+
+C:\Users\Tiago\Documents\ProfLuna>git config --global user.email santiago_martin@hotmail.com
+
+C:\Users\Tiago\Documents\ProfLuna>git commit -m "Initial Commit"
+[master (root-commit) 1b99ba2] Initial Commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+
+C:\Users\Tiago\Documents\ProfLuna>git remote add origin https://github.com/Santi44/ProfLunaGit.git
+
+C:\Users\Tiago\Documents\ProfLuna>git push -u origin master
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 245 bytes | 122.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Santi44/ProfLunaGit.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+C:\Users\Tiago\Documents\ProfLuna>
+C:\Users\Tiago\Documents\ProfLuna>git remote add origin https://github.com/Santi44/ProfLunaGit.git
+error: remote origin already exists.
+
+C:\Users\Tiago\Documents\ProfLuna>git branch -M main
+
+C:\Users\Tiago\Documents\ProfLuna>git push -u origin main
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'main' on GitHub by visiting:
+remote:      https://github.com/Santi44/ProfLunaGit/pull/new/main
+remote:
+To https://github.com/Santi44/ProfLunaGit.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\Tiago\Documents\ProfLuna>git clone https://github.com/Santi44/ProfLunaGit.git
+Cloning into 'ProfLunaGit'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+C:\Users\Tiago\Documents\ProfLuna>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0096-F637
+
+ Directorio de C:\Users\Tiago\Documents\ProfLuna
+
+09/04/2022  20:22    <DIR>          .
+09/04/2022  20:22    <DIR>          ..
+09/04/2022  20:22    <DIR>          ProfLunaGit
+09/04/2022  19:47                 0 README.md
+               1 archivos              0 bytes
+               3 dirs  202.280.128.512 bytes libres
+
+C:\Users\Tiago\Documents\ProfLuna>git commit -m "Initial Commit"
