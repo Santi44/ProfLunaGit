@@ -5,6 +5,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+
+<!-- Creo el style mostrando bordes a la tabla para que se vean que es una tabla para los, encabezados(th) y columnas (td) en color Gris -->
+
+    <style>
+        tabla,th,td 
+        {border:1px solid grey; 
+            border-collapse: collapse; } 
+    </style><!-- border-collapse Junta los bordes en la tabla-->
    
     <title>Tiago Rz</title>
 </head>
@@ -17,54 +25,59 @@
      width="250"   height="200">
 
     <h2>Información personal</h2>
-    <table> 
+
+    <table> <!-- Creamos Una Tabla y creamos <tr> (Una Fila)-->
         
-        <tr><td>Nombre y Apellido:</td> 
-            <td>Tiago Rz</td></tr>
+        <tr><th>Nombre y Apellido:</th> <!-- Usamos <th> de encabezado-->
+            <td>Tiago Rz</td><!-- Usamos <td> de Columnas normales-->
+        </tr>
 		 <tr>
-            <td>Fecha y lugar de nacimiento:</td>
+            <th>Fecha de nacimiento:</th>
             <td>20 de Octubre de 1985</td>
         </tr>
 		 <tr>
-            <td>Dirección:</td>
+            <th>Dirección:</th>
             <td>Avenida Aviadores 1278</td>
         </tr>
            
         <tr>
-            <td>Teléfono:</td>
+            <th>Teléfono:</th>
             <td>08002020</td>
         </tr>
         <tr>
-            <td>Email:</td>
+            <th>Email:</th>
             <td>Santu_Tutu@UAI.com</td>
         </tr>
+
     </table>
 
     <h2>Formación académica</h2>
     <table>
+
         <tr>
-            <td>Titulo obtenido:</td>
+            <th>Institución:</th>
+            <td>Santa Isabel</td>
+        </tr>
+
+        <tr><th>Titulo obtenido:</th>
             <td>Bachiller Contable</td>
         </tr>
             
+        <tr>
+            <th>Institución:</th>
+            <td>Universidad Abierta Interamericana</td>
+         </tr>
+         <tr>
+            <th>Titulo obtenido:</th>
+            <td>Analista en Sistemas</td>
+         </tr>
+                              
 
-            <tr>
-                <td>Institución:</td>
-                <td>Santa Isabel</td></tr>
-
-            <tr>
-                <td>Titulo obtenido:</td>
-                <td>Ingeniero en Sistemas</td></tr>
-                
-                <tr>
-                    <td>Institución:</td>
-                    <td>Universidad Abierta Interamericana</td> </tr>
-                    
-
-    </table>
+    </table> 
         
     <h2>Experiencia profesional</h2>
-    <ul>
+    <ul><!--Lista no ordenada-->
+
         <li>Accenture(Actualmente)<br>Analista Funcional</li>
         <li>Tovis(Marzo de 2011 - febrero de 2018)<br>Soporte aplicaciones</li>
         <li>Accusys (Enero de 2010 - Marzo de 2011)<br>Analista Tester</li>
@@ -72,7 +85,7 @@
     </ul>
 
     <h2>Idiomas</h2>
-    <ol>
+    <ol><!--Lista ordenada-->
         <li>Español-nivel: nativo</li>
         <li>Ingles-nivel: básico</li>
         <li>Portugues- nivel: Medio</li>
