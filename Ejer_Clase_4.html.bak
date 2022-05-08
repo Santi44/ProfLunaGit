@@ -62,7 +62,7 @@ NOTA DE LA PAGINA ORIGINAL QUE ME BASE PARA EL EJERCICIO </a>
 <label for="">
 	 correo <input type="email">
 </label>
-<button type="submit"> Confirmar Suscribe</button>
+<button type="submit"> Suscribe OK</button>
 
 </form>
 
