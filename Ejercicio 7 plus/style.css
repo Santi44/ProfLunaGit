@@ -1,0 +1,187 @@
+
+    body {
+        background-color: white;
+    }
+
+    main {
+        display: flex;
+        /*         La propiedad CSS flex es una propiedad resumida que indica la 
+capacidad de un elemento flexible para alterar sus dimensiones y llenar el 
+espacio disponible. Los elementos flexibles pueden ser estirados para utilizar 
+el espacio disponible proporcional a su factor de crecimiento flexible o su factor 
+de contracción flexible para evitar desbordamiento.*/
+ 
+    }
+
+    header {
+        border: 1px solid white; 
+        background-color: white; /*color de fondo*/
+        color: black;
+        padding: 20px;
+       
+    }
+
+ /*  articule.card
+{
+    font-family: Roboto, sans-serif;
+}*/
+
+h1.Titulo
+    {
+        font-size: 32px;
+        line-height: 36px;
+        margin-top: 21px;
+        padding-bottom: 16px;
+        font-family:Roboto, sans-serif;
+       
+
+    }
+
+    h3.Titulo2
+    
+    {
+    font-family:Roboto, sans-serif;
+    font-size: 17px;
+}
+
+p
+{
+    font-family: Verdana, Geneva, sans-serif ;
+    text-size-adjust: 100;
+
+ 
+
+}
+
+p.Parrafo8
+{
+font-size: 13px;
+color: #777;
+font-family: 'Open Sans',arial,sans-serif;
+margin-top: 9px;
+}
+
+h4
+{
+    font-family: 'Open Sans',arial,sans-serif;
+    font-size: 11px;
+    color: #777;
+}
+
+
+
+/*section {
+    @media (max-width: 1018px)
+    margin: 0 auto;
+    min-width:30px;
+    margin-top: 10px;
+    /*   border: 1px solid black;
+    padding: 20px;
+    background-color: #f8f8f8; 
+    color: black;
+    cursor: pointer;
+    float: left;
+    width: 70%; */
+
+
+
+section  {
+    color: black;
+    
+    text-size-adjust: 100;
+    
+}
+
+section p {
+    
+    text-align: left;
+    
+}
+
+aside {
+    /*       background-color: #f8f8f8;
+    padding: 20px;
+    border: 1px solid black; */
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+
+}
+
+article {
+    height: auto;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px;
+    margin: 2px;
+    
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   
+
+
+.card-periodico {
+    background-color: black;
+    color: #4db2ec;
+    border: 1px solid white;
+    font-size: 12px;
+    font-family: 'Open Sans',arial,sans-serif;
+   
+   
+}
+
+footer {
+    text-align: left;
+    
+    line-height: 21px;
+    display: table;
+    content: '';
+    box-sizing: border-box;
+    height: auto;
+    width: 749px;
+    background-position-x: 50%;
+    background-position-y: 50%;
+
+}
+
+img.policial
+{
+    
+ width:90%;margin: 0 auto;min-width:200px;max-width:2000px;
+ 
+
+
+}
+
+
+
+.policial {
+    max-width: 200px;
+    margin-right: 20px;
+    float: left;
+ 
+}
+
+ body
+{
+width:90%;margin:auto;min-width:200px;max-width:2000px;
+border: 1px solid white;
+padding: 250px;
+background-color: white;    
+color: #0e0c0c;
+width: auto;
+margin-left: 10;
+margin-right: 40;
+
+
+}
+
+
+    
